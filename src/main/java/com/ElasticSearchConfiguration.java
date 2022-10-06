@@ -1,4 +1,4 @@
-package com.parser;
+package com;
 
 import co.elastic.clients.elasticsearch.ElasticsearchClient;
 import co.elastic.clients.json.jackson.JacksonJsonpMapper;

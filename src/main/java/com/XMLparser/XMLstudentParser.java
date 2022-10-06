@@ -1,4 +1,4 @@
-package com.parser.XMLparser;
+package com.XMLparser;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

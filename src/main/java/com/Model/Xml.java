@@ -1,4 +1,4 @@
-package com.parser.Model;
+package com.Model;
 
 public class Xml {
     private String title;

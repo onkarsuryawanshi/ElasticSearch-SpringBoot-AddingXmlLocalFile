@@ -1,6 +1,6 @@
-package com.parser.XMLparser;
+package com.XMLparser;
 
-import com.parser.Model.Xml;
+import com.Model.Xml;
 import org.springframework.stereotype.Component;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
