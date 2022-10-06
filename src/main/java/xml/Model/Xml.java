@@ -1,4 +1,4 @@
-package com.Model;
+package xml.Model;
 
 public class Xml {
     private String title;

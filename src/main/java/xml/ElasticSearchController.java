@@ -1,8 +1,8 @@
-package com;
+package xml;
 
 import co.elastic.clients.elasticsearch.core.search.Hit;
-import com.Model.Xml;
-import com.XMLparser.XMLParserRss;
+import xml.Model.Xml;
+import xml.XMLparser.XMLParserRss;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
